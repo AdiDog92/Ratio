@@ -70,7 +70,7 @@ img {max-width: 100%;}
 .hero__top {
   margin-bottom: 99px;
   padding-bottom: 100px;
-  background: url('/img/hero_bg.png') bottom right no-repeat;
+  background: url('../img/hero_bg.png') bottom right no-repeat;
   background-size: 70%;
 }
 
@@ -195,24 +195,24 @@ img {max-width: 100%;}
 .item-1 {
   margin-right: 45px;
   margin-bottom: 50px;
-  background: url('/img/item-1_bg.png') center right no-repeat;
+  background: url('../img/item-1_bg.png') center right no-repeat;
   background-size: contain;
 }
 
 .item-2 {
   margin-bottom: 50px;
-  background: url('/img/item-2_bg.png') right center no-repeat;
+  background: url('../img/item-2_bg.png') right center no-repeat;
   background-size: contain;
 }
 
 .item-3 {
   margin-right: 45px;
-  background: url('/img/item-3_bg.png') right center no-repeat;
+  background: url('../img/item-3_bg.png') right center no-repeat;
   background-size: contain;
 }
 
 .item-4 {
-  background: url('/img/item-4_bg.png') right center no-repeat;
+  background: url('../img/item-4_bg.png') right center no-repeat;
   background-size: contain;
 }
 
@@ -240,7 +240,7 @@ img {max-width: 100%;}
   font-size: 16px;
   line-height: 160%;
   color: #212353;
-  background: url('/img/bt_bg.svg') right center no-repeat;
+  background: url('../img/bt_bg.svg') right center no-repeat;
   transition: color .3s ease-in-out;
 }
 
@@ -262,25 +262,25 @@ img {max-width: 100%;}
 
 .img-1 {
   margin-right: 20px;
-  background: url('/img/item-1.png') center center no-repeat;
+  background: url('../img/item-1.png') center center no-repeat;
   background-size: contain;
 }
 
 .img-2 {
   margin-right: 33px;
-  background: url('/img/item-2.png') center center no-repeat;
+  background: url('../img/item-2.png') center center no-repeat;
   background-size: contain;
 }
 
 .img-3 {
   margin-right: 20px;
-  background: url('/img/item-3.png') center center no-repeat;
+  background: url('../img/item-3.png') center center no-repeat;
   background-size: contain;
 }
 
 .img-4 {
   margin-right: 33px;
-  background: url('/img/item-4.png') center center no-repeat;
+  background: url('../img/item-4.png') center center no-repeat;
   background-size: contain;
 }
 
@@ -402,15 +402,15 @@ img {max-width: 100%;}
 }
 
 .user-1 {
-  background: url('/img/user-1.jpg') center center no-repeat;
+  background: url('../img/user-1.jpg') center center no-repeat;
 }
 
 .user-2 {
-  background: url('/img/user-2.jpg') center center no-repeat;
+  background: url('../img/user-2.jpg') center center no-repeat;
 }
 
 .user-3 {
-  background: url('/img/user-3.jpg') center center no-repeat;
+  background: url('../img/user-3.jpg') center center no-repeat;
 }
 
 .testimonials__swiper-navigation {
@@ -449,14 +449,14 @@ img {max-width: 100%;}
   width: 40px;
   height: 14px;
   margin-right: 20px;
-  background: url('/img/btn-left.svg') top center no-repeat;
+  background: url('../img/btn-left.svg') top center no-repeat;
   background-size: cover;
 }
 
 .testimonials__btn--right {
   width: 20px;
   height: 14px;
-  background: url('/img/btn-right.svg') center center no-repeat;
+  background: url('../img/btn-right.svg') center center no-repeat;
   background-size: cover;
 }
 
@@ -841,6 +841,3 @@ img {max-width: 100%;}
   .footer__right-title {
     font-size: 13px;
   }
-
-  .footer__right-title {}
-}
